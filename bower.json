@@ -1,0 +1,28 @@
+{
+  "name": "grunt-config-compass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/EvanLovely/grunt-config-compass",
+  "authors": [
+    "Evan Lovely <evan@evanlovely.com>"
+  ],
+  "description": "Compass Configuration for Grunt",
+  "main": "compass.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "grunt",
+    "compass",
+    "grunt-config",
+    "scss",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
